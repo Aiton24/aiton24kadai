@@ -34,15 +34,15 @@ table{
 }
 
 a:hover{
-    color:brown;
+    color:rgb(165,42,42);
 }
 
 a:active{
-    color:red;
+    color:rgb(255,0,0);
 }
 
 a:visited{
-    color:blueviolet;
+    color:rgb(138,43,226);
 }
 
 .contents img{
